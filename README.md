@@ -34,6 +34,7 @@ All libraries based on the Adafruit GFX engine are supported. This is a incomple
 list of such libraries. Probably many more are supported:
 
  - [https://github.com/adafruit/Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306) (tested) 
+ - [https://github.com/adafruit/Adafruit_SH110x] (tested)
  - [https://github.com/adafruit/Adafruit-ST7735-Library](https://github.com/adafruit/Adafruit-ST7735-Library) (not tested)
  - [https://github.com/adafruit/Adafruit-Graphic-VFD-Display-Library](https://github.com/adafruit/Adafruit-Graphic-VFD-Display-Library) (not tested)
  - [https://github.com/adafruit/Adafruit-HX8340B](https://github.com/adafruit/Adafruit-HX8340B) (not tested)
